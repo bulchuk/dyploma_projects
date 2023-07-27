@@ -8,5 +8,5 @@ Diploma projects: E-commerce project (analysis, presentation, Tableau dashboard)
 |  |  |  |
 | [A/B-test project](ab_test_project) | Here my main task is to evaluate the results of an A/B test, based on a dataset with user actions, TOR and several additional datasets| *python, pandas, matplotlib, plotly.express, plotly.graph_objects, scipy, numpy, statsmodels, multitest, proportions_ztest, data preprocessing, A/B-test validity assessment, exploratory data analysis, A/B test results evaluation, create of events funnel, check the conversion* | Completed.|
 |  |  |  |
-| [SQL project]() | | | In process of transferring project on GitHub. |
+| [SQL project]() | Task is to analyze the database of the purchased service for reading books by subscription in order to form a proposal for a new product.| *python, pandas, sqlalchemy* | Completed. |
 |  |  |  |
