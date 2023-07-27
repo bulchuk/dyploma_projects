@@ -9,7 +9,7 @@ E-commerce, Business, StartUp
 Analyze the database of the purchased service for reading books by subscription in order to form a proposal for a new product.
 
 ## Libraries and Skills
-*python, sqlalchemy*
+*python, pandas, sqlalchemy*
 
 ## Conclusion
 
