@@ -1,4 +1,4 @@
-# Project - Identification of consumption profiles of online store customers (Выявление профилей потребления покупателей интернет-магазина)
+# Project - Customer Consumption Profile Identification for an Online Store (Выявление профилей потребления покупателей интернет-магазина)
 
 ## Business areas
 
